@@ -1,9 +1,15 @@
 # Usage
 
-To use this package, import it:
+`docker-compose up -d`
 
-```python
-import lvtn_mocks
-```
+Will start services on ports:
 
-TODO: Document usage
+FTP:9921
+NGINX:9980
+
+Which serve files located in `tests/stubdata`
+
+In the future, this repository will hold implementations of additional resources
+
+- OAI-PMH server
+- S3
