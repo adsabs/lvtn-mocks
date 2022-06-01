@@ -43,4 +43,4 @@ services:
       PUBLICHOST: "ftpd_server"
       FTP_USER_NAME: test
       FTP_USER_PASS: test
-      #ADDED_FLAGS: "--verboselog"
+      ADDED_FLAGS: "--verboselog"
