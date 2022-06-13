@@ -5,8 +5,8 @@
 ![CI Status](https://github.com/adsabs/lvtn-mocks/actions/workflows/ci.yml/badge.svg)
 
   <!--
-  <a href="https://codecov.io/gh/adsabs/lvtn-mocks">
-    <img src="https://img.shields.io/codecov/c/github/adsabs/lvtn-mocks.svg?logo=codecov&logoColor=fff&style=flat-square" alt="Test coverage percentage">
+  <a href="https://codecov.io/gh/adsabs/lvtn_mocks">
+    <img src="https://img.shields.io/codecov/c/github/adsabs/lvtn_mocks.svg?logo=codecov&logoColor=fff&style=flat-square" alt="Test coverage percentage">
   </a>
   //-->
 </p>
@@ -18,7 +18,7 @@ Project which simulates external resources (FTP, S3, web servers, OAI-PMH, etc..
 Install this via pip (or your favourite package manager):
 
 ```bash
-pip install lvtn-mocks
+pip install lvtn_mocks
 ```
 
 ## Development
@@ -33,4 +33,4 @@ python rtool.py install
 
 ## Documentation
 
-[documentation](https://lvtn-mocks.readthedocs.io)
+[documentation](https://lvtn_mocks.readthedocs.io)

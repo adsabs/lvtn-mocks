@@ -1,8 +1,8 @@
 # Installation
 
-The package is published on [PyPI](https://pypi.org/project/lvtn-mocks/)
+The package is published on [PyPI](https://pypi.org/project/lvtn_mocks/)
 and can be installed with `pip` (or any equivalent):
 
 ```bash
-pip install lvtn-mocks
+pip install lvtn_mocks
 ```
